@@ -1,0 +1,25 @@
+html {
+    height: 100dvh;
+
+}
+
+body {
+    background: lightgray;
+    margin: 0;
+}
+
+.post-header {
+    display: flex;
+}
+
+.post {
+    width: 100px;
+    margin: 50px;
+    margin-left: 400px;
+    background-color: white;
+}
+
+.post-image {
+    width: 10%;
+    height: 100px;
+}
